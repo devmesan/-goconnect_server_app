@@ -1,2 +1,2 @@
-# -goconnect_server_app
+# GoConnect App Services
 GoConnect App Services Online Messaging
